@@ -84,3 +84,13 @@ sr.reveal( ".project-img", { interval: 200 } );
 
 /*SCROLL CONTACT*/
 // sr.reveal(".contact-input", { interval: 200 });
+
+function a (){
+  b = 10;
+  function c (){
+    console.log(b)
+  }
+  c()
+}
+// var b = 20;
+a()
